@@ -1,2 +1,2 @@
 # RepositorioHenry
-ejercicio 1
+primer ejercicio modulo 2
